@@ -2,8 +2,6 @@
 
 重新演示上传需要删除 /target 中的文件，否则由于服务端保存了文件上传会直接成功
 
-示例文件： /public/WebStorm-2019.3.1.dmg(`非 mac 的朋友自行找测试文件-。-`)
-
 
 前端
 * vue + element 界面展示
@@ -24,6 +22,8 @@ npm install
 ```
 npm run start
 ```
+
+修改了UI和切片上传完，合并切片加载中的UI效果
 
 # 相关博客
 [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed
