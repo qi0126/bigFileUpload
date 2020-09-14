@@ -11,10 +11,12 @@
 
 服务端
 * nodejs
+
 * multiparty 处理 formData
 
+  
 
-修改内容
+##### 添加修改内容
 
 修改了UI和切片上传完，合并切片加载中的UI效果
 
