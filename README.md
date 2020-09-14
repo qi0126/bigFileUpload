@@ -13,6 +13,11 @@
 * nodejs
 * multiparty 处理 formData
 
+
+修改内容
+
+修改了UI和切片上传完，合并切片加载中的UI效果
+
 # start
 
 ```
@@ -23,10 +28,6 @@ npm install
 npm run start
 ```
 
-修改内容
-
-
-修改了UI和切片上传完，合并切片加载中的UI效果
 
 # 相关博客
 [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed
