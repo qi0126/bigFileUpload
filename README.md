@@ -37,6 +37,4 @@ npm run start
 
 
 
-```
 ![image](https://github.com/qi0126/bigFileUpload/blob/master/image/fileUploading.gif)
-```
